@@ -1,4 +1,4 @@
-package one.digitalInnovation;
+package one.digitalInnovation.singleton;
 
 /**
  * Silgleton (Lazy Holder)
